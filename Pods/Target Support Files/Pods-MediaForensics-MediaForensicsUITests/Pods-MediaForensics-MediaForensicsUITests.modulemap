@@ -1,0 +1,6 @@
+framework module Pods_MediaForensics_MediaForensicsUITests {
+  umbrella header "Pods-MediaForensics-MediaForensicsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

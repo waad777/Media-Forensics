@@ -1,0 +1,6 @@
+framework module Pods_MediaForensics {
+  umbrella header "Pods-MediaForensics-umbrella.h"
+
+  export *
+  module * { export * }
+}
